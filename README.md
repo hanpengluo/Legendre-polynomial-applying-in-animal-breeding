@@ -10,7 +10,7 @@
 ##### Function 1: Calculating the matrix of Legendre polynomials (including the process for standardization)
 
 ```r
-len_m <- lengder_p(x,n)
+len_m <- lengder_stand(x,n)
 x is the vector of environmental variable 
 n is the order
 ```
